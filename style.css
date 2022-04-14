@@ -76,7 +76,7 @@ ul {
   margin: 0;
   padding: 0;
   background-color: rgba(255, 255, 255, 0.754);
-  background-image: linear-gradient(rgba(63, 81, 181, 0.3), rgba(63, 81, 181, 0.3)), url(resources/images/City_of_New_Jersey_Wallpaper_Nigh_View.jpg);
+  background-image: linear-gradient(rgba(63, 81, 181, 0.3), rgba(63, 81, 181, 0.3)), url('https://s3.ap-southeast-2.amazonaws.com/stage.jaedevopsprojects.online/resources/images/City_of_New_Jersey_Wallpaper_Nigh_View.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -246,7 +246,7 @@ ul {
 }
 
 .quote-panel {
-  background-image: linear-gradient(rgba(63, 81, 181, 0.5), rgba(63, 81, 181, 0.5)), url('resources/images/digital-marketing-g1f57c6851_1280.jpg');
+  background-image: linear-gradient(rgba(63, 81, 181, 0.5), rgba(63, 81, 181, 0.5)), url('https://s3.ap-southeast-2.amazonaws.com/stage.jaedevopsprojects.online/resources/images/digital-marketing-g1f57c6851_1280.jpg');
   background-position: center 5%;
   background-repeat: no-repeat;
   background-size: cover;
